@@ -1,0 +1,14 @@
+API URL to test the performance
+
+#Swagger Docs Link
+https://world-tech-comapanies.herokuapp.com/docs
+
+#Get All company List
+https://world-tech-comapanies.herokuapp.com/company
+
+
+These 3 parts form the basic makeup of all Gatling scripts, i.e.:
+
+    HTTP Configuration
+    Scenario Definition
+    Load Scenario
