@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.CustomFeederWithIterator",
+  "simulationId": "customfeederwithiterator",
+  "start": 1661352758783,
+  "description": "",
+  "scenarios": ["Scenario to create new Company"],
+  "assertions": [
+
+  ]
+}

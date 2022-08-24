@@ -1,0 +1,8 @@
+{
+  "company_name": "${company_name}",
+  "founder": "${founder}",
+  "year_established": "${year_established}",
+  "current_networth": "${current_networth}",
+  "hq": "${hq}",
+  "country": "${country}"
+}

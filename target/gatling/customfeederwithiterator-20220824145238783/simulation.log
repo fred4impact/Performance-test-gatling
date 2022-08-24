@@ -1,0 +1,8 @@
+RUN	simulations.CustomFeederWithIterator	customfeederwithiterator	1661352758783	 	3.6.1
+USER	Scenario to create new Company	START	1661352759596
+REQUEST		Create New Company	1661352759623	1661352759715	OK	 
+REQUEST		Create New Company	1661352760734	1661352760757	OK	 
+REQUEST		Create New Company	1661352761766	1661352761789	OK	 
+REQUEST		Create New Company	1661352762795	1661352762818	OK	 
+REQUEST		Create New Company	1661352763826	1661352763849	OK	 
+USER	Scenario to create new Company	END	1661352764857
