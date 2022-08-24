@@ -1,0 +1,13 @@
+RUN	simulations.CsvFeederRequest	csvfeederrequest	1661349023011	 	3.6.1
+USER	CSV Scenario	START	1661349023948
+REQUEST		Get Specific company	1661349023987	1661349024073	KO	jsonPath($.company_name).find.is(Django), but actually found facebook
+REQUEST		Get Specific company	1661349024119	1661349024139	KO	jsonPath($.company_name).find.is(Dala cruise), but actually found Google
+REQUEST		Get Specific company	1661349024141	1661349024162	KO	jsonPath($.company_name).find.is(Paypal), but actually found Youtube
+REQUEST		Get Specific company	1661349024163	1661349024184	KO	jsonPath($.company_name).find.is(Django), but actually found facebook
+REQUEST		Get Specific company	1661349024186	1661349024206	KO	jsonPath($.company_name).find.is(Dala cruise), but actually found Google
+REQUEST		Get Specific company	1661349024208	1661349024229	KO	jsonPath($.company_name).find.is(Paypal), but actually found Youtube
+REQUEST		Get Specific company	1661349024231	1661349024253	KO	jsonPath($.company_name).find.is(Django), but actually found facebook
+REQUEST		Get Specific company	1661349024254	1661349024277	KO	jsonPath($.company_name).find.is(Dala cruise), but actually found Google
+REQUEST		Get Specific company	1661349024279	1661349024300	KO	jsonPath($.company_name).find.is(Paypal), but actually found Youtube
+REQUEST		Get Specific company	1661349024302	1661349024330	KO	jsonPath($.company_name).find.is(Django), but actually found facebook
+USER	CSV Scenario	END	1661349024334

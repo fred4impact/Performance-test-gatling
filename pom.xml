@@ -43,7 +43,6 @@
         <artifactId>gatling-maven-plugin</artifactId>
         <version>${gatling-maven-plugin.version}</version>
       </plugin>
-
     </plugins>
   </build>
 </project>

@@ -12,3 +12,5 @@ These 3 parts form the basic makeup of all Gatling scripts, i.e.:
     HTTP Configuration
     Scenario Definition
     Load Scenario
+
+https://medium.com/dev-jam/load-testing-with-gatling-49f812e91814
